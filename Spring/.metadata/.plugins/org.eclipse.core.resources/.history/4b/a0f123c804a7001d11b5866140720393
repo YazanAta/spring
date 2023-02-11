@@ -1,0 +1,5 @@
+package com.example.Yazan.repository;
+
+public interface EmpRepo {
+
+}

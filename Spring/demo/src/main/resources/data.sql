@@ -1,0 +1,1 @@
+insert into employees(emp_name, salary) values ('osama', 1200)
